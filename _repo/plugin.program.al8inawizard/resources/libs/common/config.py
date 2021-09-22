@@ -224,7 +224,7 @@ class Config:
         self.INCLUDESEREN = self.get_setting('includeseren')
         self.INCLUDETHECREW = self.get_setting('includethecrew')
         self.INCLUDEYODA = self.get_setting('includeyoda')
-        self.INCLUDEVENOM = self.get_setting('includevenom')
+        self.INCLUDEALVIN = self.get_setting('includealvin')
         self.INCLUDEMRSP = self.get_setting('includeromanianpack')
         self.INCLUDETHEOATH = self.get_setting('includetheoath')
         

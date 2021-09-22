@@ -58,7 +58,7 @@
         <setting id="includescrubs" type="bool" label="Include Scrubs v2 Cache DB: " default="" enable="eq(-4,false)" visible="System.HasAddon(plugin.video.scrubsv2)"/>
         <setting id="includeasgard" type="bool" label="Include Asgard Cache DB: " default="" enable="eq(-5,false)" visible="System.HasAddon(plugin.video.asgard)"/>
         <setting id="includethecrew" type="bool" label="Include The Crew Cache DB: " default="" enable="eq(-6,false)" visible="System.HasAddon(plugin.video.thecrew)"/>
-        <setting id="includealvin" type="bool" label="Include alvin Cache DB: " default="" enable="eq(-7,false)" visible="System.HasAddon(plugin.video.alvin)"/>
+        <setting id="includealvin" type="bool" label="Include Alvin Cache DB: " default="" enable="eq(-7,false)" visible="System.HasAddon(plugin.video.alvin)"/>
 
         <!-- Default settings for Save Data entries -->
         <setting id="theoath" type="text" default="" visible="false"/>
@@ -69,7 +69,6 @@
         <setting id="premiumizer" type="text" default="" visible="false"/>
         <setting id="asgard" type="text" default="" visible="false"/>
         <setting id="scrubs" type="text" default="" visible="false"/>
-        <setting id="asgard" type="text" default="" visible="false"/>
         <setting id="shadow" type="text" default="" visible="false"/>
         <setting id="thecrew" type="text" default="" visible="false"/>
         <setting id="tmdbhelper" type="text" default="" visible="false"/>
